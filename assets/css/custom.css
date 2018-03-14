@@ -1,0 +1,11 @@
+a {
+  text-decoration: none; }
+
+#nav ul.nav-menu > li {
+  display: inline-block;
+  margin-left: 1.5em; }
+  #nav ul.nav-menu > li a {
+    font-weight: 400;
+    text-transform: uppercase; }
+
+/*# sourceMappingURL=custom.css.map */

@@ -1,0 +1,13 @@
+a {
+  text-decoration: none;
+}
+#nav {
+  ul.nav-menu > li {
+    display: inline-block;
+    margin-left: 1.5em;
+    a {
+      font-weight: 400;
+      text-transform: uppercase;
+    }
+  }
+}
